@@ -30,7 +30,7 @@ const Navbar = ({ title }: { title: string }) => {
       <View style={styles.rightContainer}>
         {title == 'Home' && (
           <TouchableOpacity onPress={openSettings} style={styles.button}>
-            <Ionicons name="settings" size={24} color="#FFF" />
+            <Ionicons name="settings" size={24} color="#c724e1" />
           </TouchableOpacity>
         )}
       </View>

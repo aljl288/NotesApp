@@ -24,7 +24,7 @@ export default function SettingsCardView({
             <Text style={styles.noteContent}>{noteContent}</Text>
           </View>
           {/* Chevron icon for navigating */}
-          <Ionicons name="chevron-forward" size={24} color="#FFF" />
+          <Ionicons name="chevron-forward" size={24} color="#f54084" />
         </Card.Content>
       </TouchableRipple>
     </Card>

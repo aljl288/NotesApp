@@ -22,7 +22,7 @@ export default function NotesCardView({
               : noteContent}
           </Text>
           <TouchableOpacity onPress={onPress} style={styles.iconContainer}>
-            <Ionicons name="chevron-forward" size={24} color="#FFF" />
+            <Ionicons name="chevron-forward" size={24} color="#f54084" />
           </TouchableOpacity>
         </Card.Content>
       </TouchableRipple>
