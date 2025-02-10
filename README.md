@@ -25,7 +25,7 @@ Before running the app, ensure you have the following installed:
 2. **Navigate into the project directory:**:
    cd <project-folder>
 
-3. **Install dependencies: If you are using npm:**:
+3. **Install dependencies:**:
    npm install
 
 4. **Start the project**:

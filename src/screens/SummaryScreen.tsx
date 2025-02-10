@@ -118,13 +118,12 @@ const styles = StyleSheet.create({
   titleContent: {
     flexDirection: 'row',
     alignItems: 'center',
-    padding: 16,
   },
 
   categoryTitle: {
     marginStart: 10,
     fontWeight: 'bold',
-    fontSize: 18,
+    fontSize: 14,
     color: '#FFF',
   },
   numberText: {
@@ -134,20 +133,19 @@ const styles = StyleSheet.create({
   },
   errorText: {
     color: '#ff007a',
-    fontSize: 18,
+    fontSize: 14,
     textAlign: 'center',
     marginTop: 20,
   },
   button: {
     backgroundColor: '#ff007a',
-    padding: 10,
     borderRadius: 30,
     alignItems: 'center',
-    minWidth: 100, // Minimum width of the button
+    minWidth: 80, // Minimum width of the button
     alignSelf: 'center', // Centers the button
   },
   buttonText: {
     color: '#ffffff',
-    fontSize: 16,
+    fontSize: 12,
   },
 })
